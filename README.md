@@ -1,10 +1,10 @@
 # Hi, I'm Ram Bhajan Sahu 👋
 
-## AI/ML Engineer | Python Developer | Building AI-Powered Solutions
+## AI/ML Engineer | Python Developer | Building AI-Powered Solutions 🤖
 
-I am an AI/ML Engineering student passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Generative AI.
+I am an AI/ML Engineering student passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI.
 
-I build practical AI applications that solve real-world problems using Python, Machine Learning models, and modern software development technologies.
+I build practical AI applications using Python, Machine Learning models, and modern software development technologies to solve real-world problems.
 
 ---
 
@@ -12,23 +12,27 @@ I build practical AI applications that solve real-world problems using Python, M
 
 - 🎓 AI/ML Engineering Student
 - 🐍 Primary programming language: Python
-- 🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning and Generative AI
+- 🤖 Focused on Artificial Intelligence, Machine Learning, Deep Learning & Generative AI
 - 💻 Building AI-powered applications and automation solutions
-- 🚀 Exploring Computer Vision, LLMs, AI Agents and intelligent systems
+- 🔍 Interested in Computer Vision, LLMs, AI Agents, and Intelligent Systems
+- 🌱 Continuously learning and improving through real-world projects
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### Programming Languages
+## Programming Languages
+
 - Python
 - C++
-- java 
+- Java
 - JavaScript
 - TypeScript
 - SQL
 
-### Artificial Intelligence & Machine Learning
+
+## Artificial Intelligence & Machine Learning
+
 - Machine Learning
 - Deep Learning
 - Generative AI
@@ -36,25 +40,31 @@ I build practical AI applications that solve real-world problems using Python, M
 - Natural Language Processing (NLP)
 - Large Language Models (LLMs)
 
-### Python & AI Libraries
+
+## Python & AI Libraries
+
 - NumPy
 - Pandas
-- OpenCV
 - Scikit-learn
+- OpenCV
 - TensorFlow
 - PyTorch
 - YOLO
 
-### Backend & Development
+
+## Backend & Development
+
 - FastAPI
 - REST API Development
 - Next.js
-- React
+- React.js
 - Node.js
 - PostgreSQL
 - Prisma ORM
 
-### Tools
+
+## Tools
+
 - Git
 - GitHub
 - VS Code
@@ -62,13 +72,14 @@ I build practical AI applications that solve real-world problems using Python, M
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
 
 ## 🤖 AI Proctoring System
 
-An AI-based online examination monitoring system focused on detecting suspicious activities during assessments.
+An AI-based online examination monitoring system designed to detect suspicious activities during online assessments.
 
-Key Features:
+### Features:
 - Face Verification
 - Liveness Detection
 - Gaze Tracking
@@ -77,51 +88,80 @@ Key Features:
 - Automated Violation Reporting
 
 
+### Tech Stack:
+Python | OpenCV | YOLO | Machine Learning | FastAPI
+
+
+---
+
 ## 🚀 CareerPath AI
 
-An AI-powered career guidance platform designed to help students and job seekers with career decisions.
+An AI-powered career guidance platform designed to help students and job seekers make better career decisions.
 
-Key Features:
+### Features:
 - Resume Analysis
 - Skill Gap Analysis
-- Career Recommendations
-- AI-based Learning Suggestions
+- Career Recommendation
+- Learning Path Suggestions
+- AI-Based Insights
 
+
+### Tech Stack:
+Next.js | TypeScript | PostgreSQL | Prisma ORM | AI APIs
+
+
+---
 
 ## 🔍 LinkedIn Job Scraper
 
 An automation system for collecting and processing job-related information.
 
-Key Features:
+### Features:
 - Job Data Extraction
 - Data Processing
 - Information Structuring
-- Database Management
+- Database Storage
+- Automated Workflow
+
+
+### Tech Stack:
+Python | Web Scraping | Data Processing | Database
+
 
 ---
 
-## 💡 Current Focus
+# 💡 Current Focus
 
 - Building AI/ML applications using Python
-- Improving Machine Learning and Deep Learning skills
-- Exploring Generative AI and AI Agents
+- Exploring Generative AI and LLM-based applications
+- Learning AI Agents and automation workflows
+- Improving Machine Learning model development
 - Developing scalable AI solutions
+
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
+
 
 ![Ram Bhajan Sahu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ram9608&show_icons=true&hide_border=true&rank_icon=github)
 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram9608&layout=compact&hide_border=true)
+
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
-LinkedIn: [Ram Bhajan Sahu](https://www.linkedin.com/in/ram-bhajan-sahu-3307572a1/)
 
-GitHub: [Ram9608](https://github.com/Ram9608)
+LinkedIn:
+https://www.linkedin.com/in/ram-bhajan-sahu-3307572a1/
+
+
+GitHub:
+https://github.com/Ram9608
+
 
 ---
 
