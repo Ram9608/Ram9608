@@ -1,27 +1,27 @@
-# Hi, I'm Ram Bhajan Sahu 👋
+Hi, I'm Ram Bhajan Sahu 👋
 
-## AI/ML Engineer | Python Developer | Building AI-Powered Solutions 🤖
+AI/ML Engineer | Python Developer | Computer Vision | Generative AI 🤖
 
-I am an AI/ML Engineering student passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+I am an AI/ML Engineering student passionate about building intelligent systems using Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI.
 
-I build practical AI applications using Python, Machine Learning models, and modern software development technologies to solve real-world problems.
+I build practical AI applications using Python, machine learning models, and modern software technologies to solve real-world problems.
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 - 🎓 AI/ML Engineering Student
 - 🐍 Primary programming language: Python
 - 🤖 Focused on Artificial Intelligence, Machine Learning, Deep Learning & Generative AI
-- 💻 Building AI-powered applications and automation solutions
+- 💻 Building AI-powered applications and automation systems
 - 🔍 Interested in Computer Vision, LLMs, AI Agents, and Intelligent Systems
 - 🌱 Continuously learning and improving through real-world projects
 
 ---
 
-# 🛠️ Technical Skills
+🛠️ Skills & Technologies
 
-## Programming Languages
+Programming Languages
 
 - Python
 - C++
@@ -30,8 +30,7 @@ I build practical AI applications using Python, Machine Learning models, and mod
 - TypeScript
 - SQL
 
-
-## Artificial Intelligence & Machine Learning
+Artificial Intelligence & Machine Learning
 
 - Machine Learning
 - Deep Learning
@@ -40,8 +39,7 @@ I build practical AI applications using Python, Machine Learning models, and mod
 - Natural Language Processing (NLP)
 - Large Language Models (LLMs)
 
-
-## Python & AI Libraries
+AI & Python Libraries
 
 - NumPy
 - Pandas
@@ -51,8 +49,7 @@ I build practical AI applications using Python, Machine Learning models, and mod
 - PyTorch
 - YOLO
 
-
-## Backend & Development
+Backend & Full Stack Development
 
 - FastAPI
 - REST API Development
@@ -62,8 +59,7 @@ I build practical AI applications using Python, Machine Learning models, and mod
 - PostgreSQL
 - Prisma ORM
 
-
-## Tools
+Tools & Platforms
 
 - Git
 - GitHub
@@ -72,65 +68,82 @@ I build practical AI applications using Python, Machine Learning models, and mod
 
 ---
 
-# 🚀 Featured Projects
+🚀 Featured Projects
 
+🤖 AI Proctoring System
 
-## 🤖 AI Proctoring System
+An AI-based online examination monitoring system designed to detect suspicious activities during online assessments using Computer Vision and Machine Learning.
 
-An AI-based online examination monitoring system designed to detect suspicious activities during online assessments.
+Features:
 
-### Features:
 - Face Verification
 - Liveness Detection
 - Gaze Tracking
 - Multiple Person Detection
 - Object Detection using YOLO
 - Automated Violation Reporting
+- Evidence Management
 
+Tech Stack:
 
-### Tech Stack:
 Python | OpenCV | YOLO | Machine Learning | FastAPI
-
 
 ---
 
-## 🚀 CareerPath AI
+🚀 CareerPath AI
 
 An AI-powered career guidance platform designed to help students and job seekers make better career decisions.
 
-### Features:
+Features:
+
 - Resume Analysis
 - Skill Gap Analysis
 - Career Recommendation
 - Learning Path Suggestions
-- AI-Based Insights
+- AI-Based Career Insights
 
+Tech Stack:
 
-### Tech Stack:
 Next.js | TypeScript | PostgreSQL | Prisma ORM | AI APIs
-
 
 ---
 
-## 🔍 LinkedIn Job Scraper
+🔍 LinkedIn Job Scraper
 
 An automation system for collecting and processing job-related information.
 
-### Features:
+Features:
+
 - Job Data Extraction
 - Data Processing
 - Information Structuring
 - Database Storage
 - Automated Workflow
 
+Tech Stack:
 
-### Tech Stack:
 Python | Web Scraping | Data Processing | Database
-
 
 ---
 
-# 💡 Current Focus
+🧠 AI Talent Matcher
+
+An AI-based resume analysis and candidate matching system.
+
+Features:
+
+- Resume Analysis
+- Skill Extraction
+- Candidate Matching
+- AI-based Feedback Generation
+
+Tech Stack:
+
+Python | AI/ML | NLP | Deep Learning | LLMs
+
+---
+
+💡 Current Focus
 
 - Building AI/ML applications using Python
 - Exploring Generative AI and LLM-based applications
@@ -138,30 +151,25 @@ Python | Web Scraping | Data Processing | Database
 - Improving Machine Learning model development
 - Developing scalable AI solutions
 
+---
+
+📊 GitHub Analytics
+
+"Ram Bhajan Sahu GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Ram9608&show_icons=true&hide_border=true&rank_icon=github)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Ram9608&layout=compact&hide_border=true)
 
 ---
 
-# 📊 GitHub Analytics
+🤝 Connect With Me
 
+📧 Email: ramsc266@gmail.com
 
-![Ram Bhajan Sahu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ram9608&show_icons=true&hide_border=true&rank_icon=github)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram9608&layout=compact&hide_border=true)
-
-
----
-
-# 🤝 Connect With Me
-
-
-LinkedIn:
+🔗 LinkedIn:
 https://www.linkedin.com/in/ram-bhajan-sahu-3307572a1/
 
-
-GitHub:
+💻 GitHub:
 https://github.com/Ram9608
-
 
 ---
 
