@@ -1,27 +1,28 @@
-Hi, I'm Ram Bhajan Sahu 👋
+# Hi, I'm Ram Bhajan Sahu 👋
 
-AI/ML Engineer | Python Developer | Computer Vision | Generative AI 🤖
+## AI/ML Engineer | Python Developer | Full Stack AI Developer 🤖
 
-I am an AI/ML Engineering student passionate about building intelligent systems using Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+I am an AI/ML Engineering student passionate about building intelligent applications using Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI.
 
-I build practical AI applications using Python, machine learning models, and modern software technologies to solve real-world problems.
+I specialize in developing end-to-end AI solutions — from model development and backend APIs to cloud deployment and scalable applications.
 
 ---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 AI/ML Engineering Student
-- 🐍 Primary programming language: Python
-- 🤖 Focused on Artificial Intelligence, Machine Learning, Deep Learning & Generative AI
-- 💻 Building AI-powered applications and automation systems
-- 🔍 Interested in Computer Vision, LLMs, AI Agents, and Intelligent Systems
+- 🐍 Strong focus on Python development and AI applications
+- 🤖 Building solutions in Machine Learning, Deep Learning, Computer Vision, and Generative AI
+- 💻 Developing full-stack AI applications with modern technologies
+- ☁️ Deploying AI applications using cloud platforms
+- 🔍 Exploring LLMs, AI Agents, and intelligent automation systems
 - 🌱 Continuously learning and improving through real-world projects
 
 ---
 
-🛠️ Skills & Technologies
+# 🛠️ Technical Skills
 
-Programming Languages
+## Programming Languages
 
 - Python
 - C++
@@ -30,7 +31,8 @@ Programming Languages
 - TypeScript
 - SQL
 
-Artificial Intelligence & Machine Learning
+
+## Artificial Intelligence & Machine Learning
 
 - Machine Learning
 - Deep Learning
@@ -38,8 +40,11 @@ Artificial Intelligence & Machine Learning
 - Computer Vision
 - Natural Language Processing (NLP)
 - Large Language Models (LLMs)
+- AI Agents
+- Prompt Engineering
 
-AI & Python Libraries
+
+## AI & Data Science Libraries
 
 - NumPy
 - Pandas
@@ -49,127 +54,161 @@ AI & Python Libraries
 - PyTorch
 - YOLO
 
-Backend & Full Stack Development
+
+## Backend Development
 
 - FastAPI
 - REST API Development
+- Node.js
+- API Integration
+- Backend Architecture
+
+
+## Full Stack Development
+
 - Next.js
 - React.js
-- Node.js
+- TypeScript
+- Tailwind CSS
 - PostgreSQL
 - Prisma ORM
 
-Tools & Platforms
+
+## Cloud & Deployment
+
+- AWS Amplify
+- Modal.com
+- Cloud Deployment
+- AI Model Deployment
+- API Deployment
+- Docker
+- Environment Configuration
+
+
+## Developer Tools
 
 - Git
 - GitHub
 - VS Code
-- Docker
+- Postman
+- Linux Basics
 
 ---
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 
-🤖 AI Proctoring System
 
-An AI-based online examination monitoring system designed to detect suspicious activities during online assessments using Computer Vision and Machine Learning.
+## 🤖 AI Proctoring System
 
-Features:
+An AI-powered online examination monitoring system built using Computer Vision and Machine Learning to detect suspicious activities during assessments.
 
+### Features:
 - Face Verification
 - Liveness Detection
 - Gaze Tracking
 - Multiple Person Detection
 - Object Detection using YOLO
-- Automated Violation Reporting
+- Violation Detection
 - Evidence Management
+- Automated Reporting
 
-Tech Stack:
+### Tech Stack:
+Python | OpenCV | YOLO | FastAPI | Machine Learning | AWS Amplify | Modal.com
 
-Python | OpenCV | YOLO | Machine Learning | FastAPI
 
 ---
 
-🚀 CareerPath AI
+## 🚀 CareerPath AI
 
-An AI-powered career guidance platform designed to help students and job seekers make better career decisions.
+An AI-powered career guidance platform designed to help students and job seekers with personalized career recommendations.
 
-Features:
-
+### Features:
 - Resume Analysis
 - Skill Gap Analysis
 - Career Recommendation
 - Learning Path Suggestions
-- AI-Based Career Insights
+- AI-Based Insights
 
-Tech Stack:
-
+### Tech Stack:
 Next.js | TypeScript | PostgreSQL | Prisma ORM | AI APIs
+
 
 ---
 
-🔍 LinkedIn Job Scraper
+## 🔍 LinkedIn Job Scraper
 
 An automation system for collecting and processing job-related information.
 
-Features:
-
+### Features:
 - Job Data Extraction
 - Data Processing
 - Information Structuring
 - Database Storage
 - Automated Workflow
 
-Tech Stack:
-
+### Tech Stack:
 Python | Web Scraping | Data Processing | Database
+
 
 ---
 
-🧠 AI Talent Matcher
+## 🧠 AI Talent Matcher
 
 An AI-based resume analysis and candidate matching system.
 
-Features:
-
-- Resume Analysis
+### Features:
+- Resume Understanding
 - Skill Extraction
 - Candidate Matching
-- AI-based Feedback Generation
+- AI-Based Feedback
 
-Tech Stack:
+### Tech Stack:
+Python | NLP | Machine Learning | Deep Learning | LLMs
 
-Python | AI/ML | NLP | Deep Learning | LLMs
 
 ---
 
-💡 Current Focus
+# ☁️ Deployment Experience
 
-- Building AI/ML applications using Python
-- Exploring Generative AI and LLM-based applications
+I have experience deploying AI-powered applications using:
+
+- AWS Amplify for frontend hosting and deployment
+- Modal.com for cloud-based AI workloads and backend execution
+- API-based AI application deployment workflows
+
+---
+
+# 💡 Current Focus
+
+- Building production-ready AI applications
+- Exploring Generative AI and LLM applications
 - Learning AI Agents and automation workflows
-- Improving Machine Learning model development
-- Developing scalable AI solutions
+- Improving Machine Learning models
+- Developing scalable AI systems
+
 
 ---
 
-📊 GitHub Analytics
+# 📊 GitHub Analytics
 
-"Ram Bhajan Sahu GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Ram9608&show_icons=true&hide_border=true&rank_icon=github)
+![Ram Bhajan Sahu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ram9608&show_icons=true&hide_border=true&rank_icon=github)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Ram9608&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram9608&layout=compact&hide_border=true)
+
 
 ---
 
-🤝 Connect With Me
+# 🤝 Connect With Me
 
-📧 Email: ramsc266@gmail.com
+📧 Email:
+ramsc266@gmail.com
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/ram-bhajan-sahu-3307572a1/
 
 💻 GitHub:
 https://github.com/Ram9608
+
 
 ---
 
